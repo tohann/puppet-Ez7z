@@ -1,4 +1,15 @@
-puppet-7zip
+puppet-Ez7z
 ===========
 
-7zip Puppet Module for Boxen
+Ez7z Puppet Module for Boxen
+
+## Usage
+
+```puppet
+include Ez7z
+```
+
+## Required Puppet Modules
+
+None.
+
